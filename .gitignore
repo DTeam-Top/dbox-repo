@@ -1,0 +1,9 @@
+node_modules
+.vscode-test
+out
+build
+*.log
+*.vsix
+src/test/fixtures/.dbox-saved
+!test-data/**/*.vsix
+.DS_Store

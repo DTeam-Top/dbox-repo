@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    { "name": "repo1", "type": "url1", "options": "auth" },
+    { "name": "repo2", "type": "url2", "options": { "user": "user1", "password": "password1"} }
+  ],
+  "extensionInstalled": [
+    { "extId": "ext1", "version": "0.0.1", "describe": "ext1", "enabled": true, "repository": "repo1"},
+    { "extId": "ext2", "version": "0.0.2", "describe": "ext2", "enabled": true, "repository": "repo1" },
+    { "extId": "ext3", "version": "0.0.3", "describe": "ext3", "enabled": false, "repository": "repo2" }
+  ]
+}
