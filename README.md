@@ -115,6 +115,11 @@ To uninstall an extension installed by DBox-Repo, in "Extensions" view:
 1. Click "uninstall".
 1. After restarting VS Code, the uninstalled extension will not be shown in "Installed Extensions" section in admin GUI.
 
+## V0.0.2 TODO
+
+- [add npm support](https://github.com/DTeam-Top/dbox-repo/issues/2)
+- [add multiple versions support](https://github.com/DTeam-Top/dbox-repo/issues/3)
+
 ## Known Issues
 
 Please visit [issues page](https://github.com/DTeam-Top/dbox-repo/issues) to submit new issues or check known issues.

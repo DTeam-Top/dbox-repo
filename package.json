@@ -2,7 +2,7 @@
   "name": "dbox-repo",
   "displayName": "DBox Repository",
   "description": "Your personal VS Code Extensions Repository",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "dteam-top",
   "icon": "pages/shared/imgs/logo.png",
   "engines": {
