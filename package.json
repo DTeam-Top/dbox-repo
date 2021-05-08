@@ -82,7 +82,7 @@
     "denodeify": "1.2.1",
     "dropbox": "4.0.30",
     "fs-extra": "^8.1.0",
-    "handlebars": "4.7.3",
+    "handlebars": "4.7.7",
     "node-fetch": "2.6.0",
     "osenv": "0.1.5",
     "tmp": "0.1.0",
