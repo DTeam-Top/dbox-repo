@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "ali-oss": "6.5.1",
-    "aws-sdk": "^2.639.0",
+    "aws-sdk": "^2.814.0",
     "denodeify": "1.2.1",
     "dropbox": "4.0.30",
     "fs-extra": "^8.1.0",
